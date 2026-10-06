@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AndrewChoban
-- 👀 I’m interested in ... Web develpment stuff
-- 🌱 I’m currently learning ... HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Game Develpoment
+- 🌱 I’m currently learning ... Godot engine
 
 <!---
 snowglobe92/snowglobe92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
