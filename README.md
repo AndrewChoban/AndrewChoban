@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewChoban
-- 👀 I’m interested in ... Game Develpoment
+- 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... Godot engine
 
 <!---
